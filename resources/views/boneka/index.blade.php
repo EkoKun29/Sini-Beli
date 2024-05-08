@@ -1,21 +1,3 @@
-<style>
-  .icon {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    margin-right: 5px;
-  }
-</style>
-
-<select>
-  <option value="php">
-    <img src="../assets/images/logos/php-logo.svg" alt="PHP" class="icon">PHP
-  </option>
-  <option value="vue">
-    <img src="../assets/images/logos/vue-js.svg" alt="Vue" class="icon">Vue
-  </option>
-</select>
-
 @extends('layouts.app')
 
 @section('content')
